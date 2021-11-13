@@ -1,0 +1,23 @@
+TERMINAL SET UP
+- iterm2
+- ZSH(update?)
+- oh my zsh
+- edit .zshrc ($ open ~/.zshrc)
+- add rayrussel theme to rfd/.oh-my-zsh
+
+then... 
+spotify
+chrome
+firefox
+google drive for mac
+other straight apps
+
+then vs code - careful of extensions
+
+then 
+ - correct way of doing python
+ - correct way for JS and node
+ - correct way for dart and flutter
+ - correct way for tensor flow?
+ - make sure jupyter working on VSCODE
+ 
