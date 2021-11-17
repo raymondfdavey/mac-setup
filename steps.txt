@@ -1,18 +1,31 @@
 TERMINAL SET UP
-- iterm2
-- ZSH(update?)
-- oh my zsh
-- edit .zshrc ($ open ~/.zshrc)
-- add rayrussel theme to rfd/.oh-my-zsh
+- chrome
+- firefox
 
-then... 
-spotify
-chrome
-firefox
-google drive for mac
+- iterm2 (https://iterm2.com/index.html)
+- ZSH should be there(zsh --version)
+- oh my zsh (https://ohmyz.sh/#install)
+- curl command should prompt dev tools download which includes git
+- add rayrussel theme to rfd/.oh-my-zsh/themes
+- edit .zshrc ($ open ~/.zshrc) for theme to be rayrussel
+
+then...
+- altTab
+- keepingYouAwake 
+- spectacle
+
+- get python (site download)
+- get node (site download - includes NPM)
+
+- get VScode
+- set python interpreter
+
+- flutter
+
+(at some point android studio/Xcode)
+
 other straight apps
 
-then vs code - careful of extensions
 
 then 
  - correct way of doing python
