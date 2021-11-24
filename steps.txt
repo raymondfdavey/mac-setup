@@ -19,8 +19,11 @@ then...
 
 - get VScode
 - set python interpreter
+- do test python/jupyter notebook to get ipykernel 
 
 - flutter
+- get test flutter project
+- for flutter macOS dev need cocoa pods. Is an inbuilt ruby but seems its a bit shit so need to get home-brew to then do an install of ruby to then do an install of cocoapods
 
 (at some point android studio/Xcode)
 
@@ -34,3 +37,16 @@ then
  - correct way for tensor flow?
  - make sure jupyter working on VSCODE
  
+
+ FOR GIT SSH ISSUES YOU BASICALLY NEED TO CHNAGE THE REMOTE TO A SSH REMOTE FROM HTTPS REMOTE
+
+
+ remote -v
+  290  git remote set-url origin git@github.com:raymondfdavey/yrglset.git
+  291  git status
+  292  git push remote origin
+  293  git push
+  294  git status
+  295  git pushorigin master --force
+  296  git push origin master --force
+  297  git status
