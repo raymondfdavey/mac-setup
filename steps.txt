@@ -25,6 +25,9 @@ then...
 - get test flutter project
 - for flutter macOS dev need cocoa pods. Is an inbuilt ruby but seems its a bit shit so need to get home-brew to then do an install of ruby to then do an install of cocoapods
 
+- rust
+- get rust from website
+
 - git
 - set up SSH for new mac (follow steps on git/guides)
 (at some point android studio/Xcode)
