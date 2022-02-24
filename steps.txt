@@ -41,6 +41,7 @@ then
  - correct way for dart and flutter
  - correct way for tensor flow?
  - make sure jupyter working on VSCODE
+ - pip3 install -> pandas numpy seaboard matplotlib etc
  
 
  FOR GIT SSH ISSUES YOU BASICALLY NEED TO CHNAGE THE REMOTE TO A SSH REMOTE FROM HTTPS REMOTE
