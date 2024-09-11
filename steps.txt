@@ -10,7 +10,7 @@ TERMINAL SET UP
 - edit .zshrc ($ open ~/.zshrc) for theme to be rayrussel
 
 then...
-
+- SEE ABOUT THE .DS Code think in git
 - git
 - set up SSH for new mac (follow steps on git/guides)
 - altTab
