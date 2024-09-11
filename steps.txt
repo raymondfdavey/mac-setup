@@ -1,7 +1,7 @@
 TERMINAL SET UP
 - chrome
 - firefox
-
+- HOMEBREW
 - iterm2 (https://iterm2.com/index.html)
 - ZSH should be there(zsh --version)
 - oh my zsh (https://ohmyz.sh/#install)
@@ -10,26 +10,32 @@ TERMINAL SET UP
 - edit .zshrc ($ open ~/.zshrc) for theme to be rayrussel
 
 then...
+
+- git
+- set up SSH for new mac (follow steps on git/guides)
 - altTab
 - keepingYouAwake 
 - spectacle
-
+- swiftquit
+- docker
+- git hub desktop
+- VLC
+- insomnia
+- excel word outlook teams
+- mongo db compass
+- obsidian
 - get python (site download)
 - get node (site download - includes NPM)
-
+- SPOTIFY
+- vscode
+- zoom
 - get VScode
 - set python interpreter
 - do test python/jupyter notebook to get ipykernel 
 
-- flutter
-- get test flutter project
-- for flutter macOS dev need cocoa pods. Is an inbuilt ruby but seems its a bit shit so need to get home-brew to then do an install of ruby to then do an install of cocoapods
-
 - rust
 - get rust from website
 
-- git
-- set up SSH for new mac (follow steps on git/guides)
 (at some point android studio/Xcode)
 
 other straight apps
